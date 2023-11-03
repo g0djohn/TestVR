@@ -1,0 +1,10 @@
+obj/
+*.csproj
+.vs/
+*.sln
+Library/
+ProjectSettings/ProjectVersion.txt
+Temp/
+Logs/
+Assets/GIT_IGORE/
+Assets/GIT_IGORE.meta
